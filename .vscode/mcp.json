@@ -1,0 +1,24 @@
+{
+    "servers": {
+        "context7": {
+            "type": "http",
+            "url": "https://mcp.context7.com/mcp",
+            "headers": {
+                "CONTEXT7_API_KEY": "ctx7sk-e9413152-8a1a-450c-bc74-bc50297bcfa7"
+            }
+        },
+        "pypi-query": {
+            "command": "uvx",
+            "args": [
+                "--from",
+                "pypi-query-mcp-server",
+                "pypi-query-mcp"
+            ],
+            "env": {
+                "PYPI_INDEX_URL": "https://pypi.org/pypi",
+                "PYPI_CACHE_TTL": "3600",
+                "PYPI_LOG_LEVEL": "INFO"
+            }
+        }
+    }
+}
