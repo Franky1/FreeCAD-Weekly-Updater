@@ -43,7 +43,7 @@
 
 ## Issues :warning:
 
-Only supports Windows 11 with `x86_64` architecture, not compatible with other operating systems or architectures yet.
+Only supports Windows 11 with `x86_64` arch, not compatible with other OS or architectures yet.
 
 ## Installation :inbox_tray:
 
