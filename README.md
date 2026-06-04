@@ -36,14 +36,14 @@
 
 ## Features :sparkles:
 
-- Installable Python package with a `freecad-weekly-updater` CLI command.
-- Requires Python >= 3.11.
-- No third-party runtime libraries.
-- Tested on Windows 11 with x86_64 architecture.
+- Installable Python package with a `freecad-weekly-updater` CLI command
+- Requires Python >= `3.11`
+- No third-party runtime libraries
+- Tested on Windows 11 with `x86_64` architecture
 
 ## Issues :warning:
 
-Only supports Windows 11 with x86_64 architecture. Not compatible with other operating systems or architectures yet.
+Only supports Windows 11 with `x86_64` architecture, not compatible with other operating systems or architectures yet.
 
 ## Installation :inbox_tray:
 
